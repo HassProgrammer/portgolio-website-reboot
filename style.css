@@ -1,0 +1,186 @@
+*{
+    margin: 0px;
+    
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner-top{
+    overflow: hidden;  
+    height: 500;
+    background-image: url(imagess/header-bg.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.banner-top .detail-button{
+    margin-top: 250px;
+    width: 40%;
+    float: left;
+}
+.banner-top .detail-button h3{
+    font-weight: 500;
+    padding-left: 20px;
+}
+.banner-top .detail-button h1{
+    color: #ff1772;
+    font-weight: 700px;
+    margin-top: 20px;
+    padding-left: 40px;
+}
+.banner-top .detail-button p{
+    font-weight: 500;
+    margin-top: 30px;
+    color: #707070;
+    margin-bottom: 50px;
+    padding-left: 20px;
+}
+.banner-top a{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image: linear-gradient(45deg,#ec5298,#ed4b6f);
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-left: 20px;
+   
+}
+.banner-top .image{
+    width: 60%;
+    float: left;
+}
+.banner-top .image img{
+    width: 100%;
+}
+
+.mid{
+      overflow: hidden;
+    height: 200;
+    background-image: url(imagess/biography-bg.jpg);
+    background-position: center;
+    margin-top: 30px;
+    padding-bottom: 100px;
+    background-repeat: no-repeat;
+
+}
+.mid .left-half{
+    width: 60%;
+    float: left;
+}
+.mid .left-half img{
+    width: 70%;
+}
+.mid .right-half{
+    width: 40%;
+    float: left;
+    margin-top: 450px;
+}
+.mid .right-half h1{
+    font-weight: 500;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.mid .right-half p{
+    font-size: 15px;
+    color: #707070;
+    margin-bottom: 40px;
+}
+
+.mid .right-half a{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image: linear-gradient(45deg,#ec5298,#ed4b6f);
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    overflow: hidden;
+}
+
+.work{
+    overflow: hidden;
+    height: 500;
+    margin-top: 0px;
+    background-image: url(imagess/latest-work-bg.png);
+    background-position: center center;
+    padding-bottom: 100px;
+    
+    
+}
+.work h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-weight: 500;
+    font-size: 36px;
+}
+    
+.work img{
+    width: 100%;
+   margin-left: 200px;
+}
+.work .st{
+    width: 20%;
+    float: left;
+    padding-left: 100px;
+
+}
+.work .nd{
+    width: 20%;
+    float: left;
+    padding-left: 100px;
+}
+.work .rd{
+    width: 20%;
+    float: left;
+    padding-left: 100px;
+}
+
+.client{
+    overflow: hidden;
+    height: 500;
+    background-image: url(imagess/footer-bg.png);
+    background-position: center center;
+    padding-bottom:100px ;
+}
+.client h2{
+    padding-top: 100px;
+    font-weight: 600;
+    text-align: center;
+    font-size: 36px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+.client h4{
+    text-align: center;
+}
+.client h3{
+    text-align: center;
+    font-weight: 500;
+    font-size: 10px;
+    color: #707070;
+}
+.client p{
+    text-align: center;
+    font-size: 12px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+.client a{
+    text-align: center;
+    text-decoration: none;
+    background-image: linear-gradient(45deg,#ec5298,#ed4b6f);
+    padding: 20px 20px;
+    margin-left: 500px;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+footer p{
+   clear: both;
+    text-align: center;
+    font-size: 12px;
+    padding-bottom: 50px;
+}
+
